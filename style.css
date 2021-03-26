@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.indexbody{
+    background-color: #ebc6a7;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
+}
+.aboutbody{
+    background-color: #ebc6a7;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    height: 100%;
+    
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+.logo{
+    padding-left: 500px;
+}
+
+.logo-title a{
+    text-decoration: none;
+    padding-left: 500px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    height: auto;
+    border-radius: 4px;
+}
+.logo div{
+    display: inline-block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    height: auto;
+    text-shadow: 2px 2px red;
+    
+} 
+
+.logo-image img{
+    margin-top: 25px;
+    height: 100px;
+}
+
+.nav-bar h2{
+    color: green;
+    text-align: center;
+    text-decoration-line: underline;
+    
+}
+
+.nav-bar a{
+    text-decoration: none;
+}
+
+.header{
+    padding-left: 500px;
+}
+
+.header a{
+    text-shadow: 2px 2px red;
+    text-decoration: none;
+    font-size: x-large;
+    text-decoration-line: underline;
+}
+
+.img-Container{
+    margin-top: 100px;
+    display: flex;
+}
+
+.img-Container img{
+    border: 2px solid #dddddd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.description{
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: justify;
+    line-height: 1.7;
+    font-size:medium;
+    font-weight: normal;
+    color:black;
+    font-family: Helvetica, sans-serif;
+}
+
+.img-Container h2{
+    margin-left: 150px;
+    color: black;
+}
+
+.img-Container p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    text-align: justify;
+    line-height: 1.7;
+    font-size:medium;
+    font-weight: normal;
+    font-family: Helvetica, sans-serif;
+    color:#000000;
+}
+
+.citation{
+    padding-left: 500px;
+}
+
+.citation p{
+    color: white;
+}
+
+.citation a{
+    color: blue;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    font-size: large;
+    font-weight: bold;
+}
